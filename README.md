@@ -14,7 +14,7 @@
 ### 7.% Passing Reading (The percentage of students that passed reading.)
 ### 8.% Overall Passing (The percentage of students that passed math and reading.)
 
-![Stations](img/MLacct.PNG)
+![Panda](img/school1.PNG)
 
 ## School Summary:
 
@@ -29,7 +29,7 @@
 ### 9.% Passing Reading (The percentage of students that passed reading.)
 ### 10.% Overall Passing (The percentage of students that passed math and reading.)
 
-![Stations](img/MLacct.PNG)
+![Panda](img/school2.PNG)
 
 ## Top Performing Schools (By % Overall Passing):
 
@@ -44,30 +44,30 @@
 ### 9. % Passing Reading (The percentage of students that passed reading.)
 ### 10. % Overall Passing (The percentage of students that passed math and reading.)
 
-![Stations](img/MLacct.PNG)
+![Panda](img/school3.PNG)
 
 ## Bottom Performing Schools (By % Overall Passing):
 
 Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
-![Stations](img/MLacct.PNG)
+![Panda](img/school4.PNG)
 
 
 ## Math Scores by Grade:
 
 Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-![Stations](img/MLacct.PNG)
+![Panda](img/school5.PNG)
 
 
 ## Reading Scores by Grade:
 
 Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-![Stations](img/MLacct.PNG)
+![Panda](img/school6.PNG)
 
 
 ## Scores by School Spending:
 
 Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
-![Stations](img/MLacct.PNG)
+![Panda](img/school7.PNG)
 
 ## Average Math & Average Reading Score:
 
@@ -75,17 +75,17 @@ Create a table that breaks down school performances based on average Spending Ra
 ### 2.% Passing Reading (The percentage of students that passed reading.)
 ### 3.% Overall Passing (The percentage of students that passed math and reading.)
 
-![Stations](img/MLacct.PNG)
+![Panda](img/school8.PNG)
 
 ## Scores by School Size:
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
-![Stations](img/MLacct.PNG)
+![Panda](img/school9.PNG)
 
 
 ## Scores by School Type:
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
-![Stations](img/MLacct.PNG)
+![Panda](img/school10.PNG)
 
 
