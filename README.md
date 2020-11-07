@@ -5,44 +5,44 @@
 
 ## District Summary:
 
-### 1.Total Schools
-### 2.Total Students
-### 3.Total Budget
-### 4.Average Math Score
-### 5.Average Reading Score
-### 6.% Passing Math (The percentage of students that passed math.)
-### 7.% Passing Reading (The percentage of students that passed reading.)
-### 8.% Overall Passing (The percentage of students that passed math and reading.)
+#### 1.Total Schools
+#### 2.Total Students
+#### 3.Total Budget
+#### 4.Average Math Score
+#### 5.Average Reading Score
+#### 6.% Passing Math (The percentage of students that passed math.)
+#### 7.% Passing Reading (The percentage of students that passed reading.)
+#### 8.% Overall Passing (The percentage of students that passed math and reading.)
 
 ![Panda](img/school1.PNG)
 
 ## School Summary:
 
-### 1.School Name
-### 2.School Type
-### 3.Total Students
-### 4.Total School Budget
-### 5.Per Student Budget
-### 6.Average Math Score
-### 7.Average Reading Score
-### 8.% Passing Math (The percentage of students that passed math.)
-### 9.% Passing Reading (The percentage of students that passed reading.)
-### 10.% Overall Passing (The percentage of students that passed math and reading.)
+#### 1.School Name
+#### 2.School Type
+#### 3.Total Students
+#### 4.Total School Budget
+#### 5.Per Student Budget
+#### 6.Average Math Score
+#### 7.Average Reading Score
+#### 8.% Passing Math (The percentage of students that passed math.)
+#### 9.% Passing Reading (The percentage of students that passed reading.)
+#### 10.% Overall Passing (The percentage of students that passed math and reading.)
 
 ![Panda](img/school2.PNG)
 
 ## Top Performing Schools (By % Overall Passing):
 
-### 1. School Name
-### 2. School Type
-### 3. Total Students
-### 4. Total School Budget
-### 5. Per Student Budget
-### 6. Average Math Score
-### 7. Average Reading Score
-### 8. % Passing Math (The percentage of students that passed math.)
-### 9. % Passing Reading (The percentage of students that passed reading.)
-### 10. % Overall Passing (The percentage of students that passed math and reading.)
+#### 1. School Name
+#### 2. School Type
+#### 3. Total Students
+#### 4. Total School Budget
+#### 5. Per Student Budget
+#### 6. Average Math Score
+#### 7. Average Reading Score
+#### 8. % Passing Math (The percentage of students that passed math.)
+#### 9. % Passing Reading (The percentage of students that passed reading.)
+#### 10. % Overall Passing (The percentage of students that passed math and reading.)
 
 ![Panda](img/school3.PNG)
 
@@ -71,9 +71,9 @@ Create a table that breaks down school performances based on average Spending Ra
 
 ## Average Math & Average Reading Score:
 
-### 1.% Passing Math (The percentage of students that passed math.)
-### 2.% Passing Reading (The percentage of students that passed reading.)
-### 3.% Overall Passing (The percentage of students that passed math and reading.)
+#### 1.% Passing Math (The percentage of students that passed math.)
+#### 2.% Passing Reading (The percentage of students that passed reading.)
+#### 3.% Overall Passing (The percentage of students that passed math and reading.)
 
 ![Panda](img/school9.PNG)
 
