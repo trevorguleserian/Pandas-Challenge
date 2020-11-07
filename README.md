@@ -67,7 +67,7 @@ Create a table that lists the average Reading Score for students of each grade l
 ## Scores by School Spending:
 
 Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
-![Panda](img/school7.PNG)
+![Panda](img/school8.PNG)
 
 ## Average Math & Average Reading Score:
 
@@ -75,17 +75,17 @@ Create a table that breaks down school performances based on average Spending Ra
 ### 2.% Passing Reading (The percentage of students that passed reading.)
 ### 3.% Overall Passing (The percentage of students that passed math and reading.)
 
-![Panda](img/school8.PNG)
+![Panda](img/school9.PNG)
 
 ## Scores by School Size:
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
-![Panda](img/school9.PNG)
+![Panda](img/school10.PNG)
 
 
 ## Scores by School Type:
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
-![Panda](img/school10.PNG)
+![Panda](img/school11.PNG)
 
 
